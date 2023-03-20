@@ -8,7 +8,7 @@
     "prettier": "npx prettier --write **/*.html"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ambrish Abhijatya",
   "license": "ISC",
   "devDependencies": {
     "prettier-plugin-tailwindcss": "^0.2.5"
